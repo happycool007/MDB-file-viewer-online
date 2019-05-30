@@ -1,2 +1,2 @@
 # MDB-file-viewer-online
-software
+Now SysInfo launches its smart MDB file viewer free tool to view, open and read MDB file without installing  MS Access in your machine . A simple file viewer or reader is basically designed to open readable file. They are not able to preview the MDB file if the file is damaged or corrupted. But this SysInfo MDB file reader is a free and smart program to open healthy as well as damaged access database file without any issue.
